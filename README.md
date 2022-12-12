@@ -10,8 +10,5 @@ You can run your application in dev mode that enables live coding using:
 ```shell script
 ./gradlew quarkusDev
 ```
-
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
-
-- Quarkus starter template from the article,([Building Microservices with Quarkus and Kotlin](https://quarkus.io/guides/resteasy-reactive))
+Quarkus starter template from the article,([Building Microservices with Quarkus and Kotlin](https://quarkus.io/guides/resteasy-reactive))
 
